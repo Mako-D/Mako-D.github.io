@@ -2,17 +2,20 @@
 
 - type: github
   icon: "fab fa-github"
+  url: 'https://github.com/Mako-D'
 
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+- type: telegram
+  icon: "fa-brands fa-telegram"
+  url: 'https://t.me/MakoStockh'
+
+- type: orcid
+  icon: "fa-brands fa-orcid"
+  url: 'https://orcid.org/0009-0009-6590-2965'
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -26,3 +29,8 @@
 # - type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
 #   url:  ''                  # Fill with your stackoverflow homepage
+#
+# - type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
+#
