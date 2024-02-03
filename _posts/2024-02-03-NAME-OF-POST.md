@@ -1,6 +1,6 @@
 ---
 layout: post
 title: "POST-TITLE"
-date: YYYY-MM-DD hh:mm:ss -0000
+date: <% tp.date.now("yyyy-MM-DD HH:mm") %> 
 categories: CATEGORY-1 CATEGORY-2
 ---
