@@ -6,9 +6,11 @@
 
 - type: telegram
   icon: "fa-brands fa-telegram"
+  url: 'https://t.me/MakoStockh'
 
 - type: orcid
   icon: "fa-brands fa-orcid"
+  url: 'https://orcid.org/0009-0009-6590-2965'
 
 - type: email
   icon: "fas fa-envelope"
